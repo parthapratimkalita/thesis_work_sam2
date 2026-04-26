@@ -1,0 +1,375 @@
+Pair ID,Animal 1,Animal 2,Length Ratio (A1:A2),Height Ratio (A1:A2),Width Ratio (A1:A2),Facing
+1,African Elephant,Cheetah,5.23,4.11,6.57,"height, length"
+2,African Elephant,Meerkat,19.43,10.57,28.75,height
+3,African Elephant,Giraffe,1.58,0.7,2.3,"height, length"
+4,African Elephant,Hippo,1.7,2.06,1.53,"height, length"
+5,African Elephant,Honey Badger,10.0,9.25,10.45,"height, length"
+6,African Elephant,Lemur (Ring-tailed),11.72,10.28,17.69,"height, length"
+7,African Elephant,Red Panda,11.93,10.88,10.45,"height, length"
+8,African Elephant,Giant Panda,4.53,4.11,3.19,"height, length"
+9,African Elephant,Komodo Dragon,2.52,9.25,6.97,"height, length"
+10,African Elephant,Snow Leopard,6.18,5.29,6.57,"height, length"
+11,African Elephant,Camel (Dromedary),2.47,1.72,2.71,"height, length"
+12,African Elephant,Reindeer,3.49,2.55,3.54,"height, length"
+13,African Elephant,Narwhal,1.43,4.62,2.71,"height, length"
+14,African Elephant,Walrus,2.16,3.08,1.53,length
+15,African Elephant,Beluga Whale,1.24,2.96,1.92,"height, length"
+16,African Elephant,Kangaroo,4.86,2.24,4.6,"height, length"
+17,African Elephant,Koala,9.44,5.14,7.67,"height, length"
+18,African Elephant,Platypus,12.36,21.76,15.33,"height, length"
+19,African Elephant,Axolotl,27.2,61.67,38.33,"height, length"
+20,African Elephant,Sloth,10.62,14.8,9.2,"height, length"
+21,African Elephant,Toucan,12.36,16.82,15.33,"height, length"
+22,African Elephant,Grizzly Bear,3.02,2.85,2.42,"height, length"
+23,African Elephant,Penguin (Emperor),19.43,4.2,5.48,height
+24,African Elephant,Hedgehog,27.2,30.83,19.17,"height, length"
+25,African Elephant,Great White Shark,1.36,2.64,2.09,"height, length"
+26,African Elephant,Giant Squid,0.57,7.4,4.6,length
+27,African Elephant,Rooster,15.11,9.25,9.2,"height, length"
+28,Cheetah,Meerkat,3.71,2.57,4.38,height
+29,Cheetah,Giraffe,0.3,0.17,0.35,"height, length"
+30,Cheetah,Hippo,0.33,0.5,0.23,"height, length"
+31,Cheetah,Honey Badger,1.91,2.25,1.59,"height, length"
+32,Cheetah,Lemur (Ring-tailed),2.24,2.5,2.69,"height, length"
+33,Cheetah,Red Panda,2.28,2.65,1.59,"height, length"
+34,Cheetah,Giant Panda,0.87,1.0,0.49,"height, length"
+35,Cheetah,Komodo Dragon,0.48,2.25,1.06,"height, length"
+36,Cheetah,Snow Leopard,1.18,1.29,1.0,"height, length"
+37,Cheetah,Camel (Dromedary),0.47,0.42,0.41,"height, length"
+38,Cheetah,Reindeer,0.67,0.62,0.54,"height, length"
+39,Cheetah,Narwhal,0.27,1.12,0.41,"height, length"
+40,Cheetah,Walrus,0.41,0.75,0.23,length
+41,Cheetah,Beluga Whale,0.24,0.72,0.29,"height, length"
+42,Cheetah,Kangaroo,0.93,0.55,0.7,"height, length"
+43,Cheetah,Koala,1.81,1.25,1.17,"height, length"
+44,Cheetah,Platypus,2.36,5.29,2.33,"height, length"
+45,Cheetah,Axolotl,5.2,15.0,5.83,"height, length"
+46,Cheetah,Sloth,2.03,3.6,1.4,"height, length"
+47,Cheetah,Toucan,2.36,4.09,2.33,"height, length"
+48,Cheetah,Grizzly Bear,0.58,0.69,0.37,"height, length"
+49,Cheetah,Penguin (Emperor),3.71,1.02,0.83,height
+50,Cheetah,Hedgehog,5.2,7.5,2.92,"height, length"
+51,Cheetah,Great White Shark,0.26,0.64,0.32,"height, length"
+52,Cheetah,Giant Squid,0.11,1.8,0.7,length
+53,Cheetah,Rooster,2.89,2.25,1.4,"height, length"
+54,Meerkat,Giraffe,0.08,0.07,0.08,height
+55,Meerkat,Hippo,0.09,0.19,0.05,height
+56,Meerkat,Honey Badger,0.51,0.87,0.36,height
+57,Meerkat,Lemur (Ring-tailed),0.6,0.97,0.62,height
+58,Meerkat,Red Panda,0.61,1.03,0.36,height
+59,Meerkat,Giant Panda,0.23,0.39,0.11,height
+60,Meerkat,Komodo Dragon,0.13,0.87,0.24,height
+61,Meerkat,Snow Leopard,0.32,0.5,0.23,height
+62,Meerkat,Camel (Dromedary),0.13,0.16,0.09,height
+63,Meerkat,Reindeer,0.18,0.24,0.12,height
+64,Meerkat,Narwhal,0.07,0.44,0.09,height
+66,Meerkat,Beluga Whale,0.06,0.28,0.07,height
+67,Meerkat,Kangaroo,0.25,0.21,0.16,height
+68,Meerkat,Koala,0.49,0.49,0.27,height
+69,Meerkat,Platypus,0.64,2.06,0.53,height
+70,Meerkat,Axolotl,1.4,5.83,1.33,height
+71,Meerkat,Sloth,0.55,1.4,0.32,height
+72,Meerkat,Toucan,0.64,1.59,0.53,height
+73,Meerkat,Grizzly Bear,0.16,0.27,0.08,height
+74,Meerkat,Penguin (Emperor),1.0,0.4,0.19,height
+75,Meerkat,Hedgehog,1.4,2.92,0.67,height
+76,Meerkat,Great White Shark,0.07,0.25,0.07,height
+78,Meerkat,Rooster,0.78,0.87,0.32,height
+79,Giraffe,Hippo,1.07,2.94,0.67,"height, length"
+80,Giraffe,Honey Badger,6.32,13.25,4.55,"height, length"
+81,Giraffe,Lemur (Ring-tailed),7.41,14.72,7.69,"height, length"
+82,Giraffe,Red Panda,7.54,15.59,4.55,"height, length"
+83,Giraffe,Giant Panda,2.87,5.89,1.39,"height, length"
+84,Giraffe,Komodo Dragon,1.59,13.25,3.03,"height, length"
+85,Giraffe,Snow Leopard,3.91,7.57,2.86,"height, length"
+86,Giraffe,Camel (Dromedary),1.56,2.47,1.18,"height, length"
+87,Giraffe,Reindeer,2.21,3.66,1.54,"height, length"
+88,Giraffe,Narwhal,0.91,6.62,1.18,"height, length"
+89,Giraffe,Walrus,1.37,4.42,0.67,length
+90,Giraffe,Beluga Whale,0.78,4.24,0.83,"height, length"
+91,Giraffe,Kangaroo,3.07,3.21,2.0,"height, length"
+92,Giraffe,Koala,5.97,7.36,3.33,"height, length"
+93,Giraffe,Platypus,7.82,31.18,6.67,"height, length"
+94,Giraffe,Axolotl,17.2,88.33,16.67,"height, length"
+95,Giraffe,Sloth,6.72,21.2,4.0,"height, length"
+96,Giraffe,Toucan,7.82,24.09,6.67,"height, length"
+97,Giraffe,Grizzly Bear,1.91,4.08,1.05,"height, length"
+98,Giraffe,Penguin (Emperor),12.29,6.02,2.38,height
+99,Giraffe,Hedgehog,17.2,44.17,8.33,"height, length"
+100,Giraffe,Great White Shark,0.86,3.79,0.91,"height, length"
+101,Giraffe,Giant Squid,0.36,10.6,2.0,length
+102,Giraffe,Rooster,9.56,13.25,4.0,"height, length"
+103,Hippo,Honey Badger,5.88,4.5,6.82,"height, length"
+104,Hippo,Lemur (Ring-tailed),6.9,5.0,11.54,"height, length"
+105,Hippo,Red Panda,7.02,5.29,6.82,"height, length"
+106,Hippo,Giant Panda,2.67,2.0,2.08,"height, length"
+107,Hippo,Komodo Dragon,1.48,4.5,4.55,"height, length"
+108,Hippo,Snow Leopard,3.64,2.57,4.29,"height, length"
+109,Hippo,Camel (Dromedary),1.45,0.84,1.76,"height, length"
+110,Hippo,Reindeer,2.05,1.24,2.31,"height, length"
+111,Hippo,Narwhal,0.84,2.25,1.76,"height, length"
+112,Hippo,Walrus,1.27,1.5,1.0,length
+113,Hippo,Beluga Whale,0.73,1.44,1.25,"height, length"
+114,Hippo,Kangaroo,2.86,1.09,3.0,"height, length"
+115,Hippo,Koala,5.56,2.5,5.0,"height, length"
+116,Hippo,Platypus,7.27,10.59,10.0,"height, length"
+117,Hippo,Axolotl,16.0,30.0,25.0,"height, length"
+118,Hippo,Sloth,6.25,7.2,6.0,"height, length"
+119,Hippo,Toucan,7.27,8.18,10.0,"height, length"
+120,Hippo,Grizzly Bear,1.78,1.38,1.58,"height, length"
+121,Hippo,Penguin (Emperor),11.43,2.05,3.57,height
+122,Hippo,Hedgehog,16.0,15.0,12.5,"height, length"
+123,Hippo,Great White Shark,0.8,1.29,1.36,"height, length"
+124,Hippo,Giant Squid,0.33,3.6,3.0,length
+125,Hippo,Rooster,8.89,4.5,6.0,"height, length"
+126,Honey Badger,Lemur (Ring-tailed),1.17,1.11,1.69,"height, length"
+127,Honey Badger,Red Panda,1.19,1.18,1.0,"height, length"
+128,Honey Badger,Giant Panda,0.45,0.44,0.31,"height, length"
+129,Honey Badger,Komodo Dragon,0.25,1.0,0.67,"height, length"
+130,Honey Badger,Snow Leopard,0.62,0.57,0.63,"height, length"
+131,Honey Badger,Camel (Dromedary),0.25,0.19,0.26,"height, length"
+132,Honey Badger,Reindeer,0.35,0.28,0.34,"height, length"
+133,Honey Badger,Narwhal,0.14,0.5,0.26,"height, length"
+134,Honey Badger,Walrus,0.22,0.33,0.15,length
+135,Honey Badger,Beluga Whale,0.12,0.32,0.18,"height, length"
+136,Honey Badger,Kangaroo,0.49,0.24,0.44,"height, length"
+137,Honey Badger,Koala,0.94,0.56,0.73,"height, length"
+138,Honey Badger,Platypus,1.24,2.35,1.47,"height, length"
+139,Honey Badger,Axolotl,2.72,6.67,3.67,"height, length"
+140,Honey Badger,Sloth,1.06,1.6,0.88,"height, length"
+141,Honey Badger,Toucan,1.24,1.82,1.47,"height, length"
+142,Honey Badger,Grizzly Bear,0.3,0.31,0.23,"height, length"
+143,Honey Badger,Penguin (Emperor),1.94,0.45,0.52,height
+144,Honey Badger,Hedgehog,2.72,3.33,1.83,"height, length"
+145,Honey Badger,Great White Shark,0.14,0.29,0.2,"height, length"
+146,Honey Badger,Giant Squid,0.06,0.8,0.44,length
+147,Honey Badger,Rooster,1.51,1.0,0.88,"height, length"
+148,Lemur (Ring-tailed),Red Panda,1.02,1.06,0.59,"height, length"
+149,Lemur (Ring-tailed),Giant Panda,0.39,0.4,0.18,"height, length"
+150,Lemur (Ring-tailed),Komodo Dragon,0.21,0.9,0.39,"height, length"
+151,Lemur (Ring-tailed),Snow Leopard,0.53,0.51,0.37,"height, length"
+152,Lemur (Ring-tailed),Camel (Dromedary),0.21,0.17,0.15,"height, length"
+153,Lemur (Ring-tailed),Reindeer,0.3,0.25,0.2,"height, length"
+154,Lemur (Ring-tailed),Narwhal,0.12,0.45,0.15,"height, length"
+155,Lemur (Ring-tailed),Walrus,0.18,0.3,0.09,length
+156,Lemur (Ring-tailed),Beluga Whale,0.11,0.29,0.11,"height, length"
+157,Lemur (Ring-tailed),Kangaroo,0.41,0.22,0.26,"height, length"
+158,Lemur (Ring-tailed),Koala,0.81,0.5,0.43,"height, length"
+159,Lemur (Ring-tailed),Platypus,1.05,2.12,0.87,"height, length"
+160,Lemur (Ring-tailed),Axolotl,2.32,6.0,2.17,"height, length"
+161,Lemur (Ring-tailed),Sloth,0.91,1.44,0.52,"height, length"
+162,Lemur (Ring-tailed),Toucan,1.05,1.64,0.87,"height, length"
+163,Lemur (Ring-tailed),Grizzly Bear,0.26,0.28,0.14,"height, length"
+164,Lemur (Ring-tailed),Penguin (Emperor),1.66,0.41,0.31,height
+165,Lemur (Ring-tailed),Hedgehog,2.32,3.0,1.08,"height, length"
+166,Lemur (Ring-tailed),Great White Shark,0.12,0.26,0.12,"height, length"
+167,Lemur (Ring-tailed),Giant Squid,0.05,0.72,0.26,length
+168,Lemur (Ring-tailed),Rooster,1.29,0.9,0.52,"height, length"
+169,Red Panda,Giant Panda,0.38,0.38,0.31,"height, length"
+170,Red Panda,Komodo Dragon,0.21,0.85,0.67,"height, length"
+171,Red Panda,Snow Leopard,0.52,0.49,0.63,"height, length"
+172,Red Panda,Camel (Dromedary),0.21,0.16,0.26,"height, length"
+173,Red Panda,Reindeer,0.29,0.23,0.34,"height, length"
+174,Red Panda,Narwhal,0.12,0.42,0.26,"height, length"
+175,Red Panda,Walrus,0.18,0.28,0.15,length
+176,Red Panda,Beluga Whale,0.1,0.27,0.18,"height, length"
+177,Red Panda,Kangaroo,0.41,0.21,0.44,"height, length"
+178,Red Panda,Koala,0.79,0.47,0.73,"height, length"
+179,Red Panda,Platypus,1.04,2.0,1.47,"height, length"
+180,Red Panda,Axolotl,2.28,5.67,3.67,"height, length"
+181,Red Panda,Sloth,0.89,1.36,0.88,"height, length"
+182,Red Panda,Toucan,1.04,1.55,1.47,"height, length"
+183,Red Panda,Grizzly Bear,0.25,0.26,0.23,"height, length"
+184,Red Panda,Penguin (Emperor),1.63,0.39,0.52,height
+185,Red Panda,Hedgehog,2.28,2.83,1.83,"height, length"
+186,Red Panda,Great White Shark,0.11,0.24,0.2,"height, length"
+187,Red Panda,Giant Squid,0.05,0.68,0.44,length
+188,Red Panda,Rooster,1.27,0.85,0.88,"height, length"
+189,Giant Panda,Komodo Dragon,0.56,2.25,2.18,"height, length"
+190,Giant Panda,Snow Leopard,1.36,1.29,2.06,"height, length"
+191,Giant Panda,Camel (Dromedary),0.55,0.42,0.85,"height, length"
+192,Giant Panda,Reindeer,0.77,0.62,1.11,"height, length"
+193,Giant Panda,Narwhal,0.32,1.12,0.85,"height, length"
+194,Giant Panda,Walrus,0.48,0.75,0.48,length
+195,Giant Panda,Beluga Whale,0.27,0.72,0.6,"height, length"
+196,Giant Panda,Kangaroo,1.07,0.55,1.44,"height, length"
+197,Giant Panda,Koala,2.08,1.25,2.4,"height, length"
+198,Giant Panda,Platypus,2.73,5.29,4.8,"height, length"
+199,Giant Panda,Axolotl,6.0,15.0,12.0,"height, length"
+200,Giant Panda,Sloth,2.34,3.6,2.88,"height, length"
+201,Giant Panda,Toucan,2.73,4.09,4.8,"height, length"
+202,Giant Panda,Grizzly Bear,0.67,0.69,0.76,"height, length"
+203,Giant Panda,Penguin (Emperor),4.29,1.02,1.71,height
+204,Giant Panda,Hedgehog,6.0,7.5,6.0,"height, length"
+205,Giant Panda,Great White Shark,0.3,0.64,0.65,"height, length"
+206,Giant Panda,Giant Squid,0.12,1.8,1.44,length
+207,Giant Panda,Rooster,3.33,2.25,2.88,"height, length"
+208,Komodo Dragon,Snow Leopard,2.45,0.57,0.94,"height, length"
+209,Komodo Dragon,Camel (Dromedary),0.98,0.19,0.39,"height, length"
+210,Komodo Dragon,Reindeer,1.38,0.28,0.51,"height, length"
+211,Komodo Dragon,Narwhal,0.57,0.5,0.39,"height, length"
+212,Komodo Dragon,Walrus,0.86,0.33,0.22,length
+213,Komodo Dragon,Beluga Whale,0.49,0.32,0.28,"height, length"
+214,Komodo Dragon,Kangaroo,1.93,0.24,0.66,"height, length"
+215,Komodo Dragon,Koala,3.75,0.56,1.1,"height, length"
+216,Komodo Dragon,Platypus,4.91,2.35,2.2,"height, length"
+217,Komodo Dragon,Axolotl,10.8,6.67,5.5,"height, length"
+218,Komodo Dragon,Sloth,4.22,1.6,1.32,"height, length"
+219,Komodo Dragon,Toucan,4.91,1.82,2.2,"height, length"
+220,Komodo Dragon,Grizzly Bear,1.2,0.31,0.35,"height, length"
+221,Komodo Dragon,Penguin (Emperor),7.71,0.45,0.79,height
+222,Komodo Dragon,Hedgehog,10.8,3.33,2.75,"height, length"
+223,Komodo Dragon,Great White Shark,0.54,0.29,0.3,"height, length"
+224,Komodo Dragon,Giant Squid,0.23,0.8,0.66,length
+225,Komodo Dragon,Rooster,6.0,1.0,1.32,"height, length"
+226,Snow Leopard,Camel (Dromedary),0.4,0.33,0.41,"height, length"
+227,Snow Leopard,Reindeer,0.56,0.48,0.54,"height, length"
+228,Snow Leopard,Narwhal,0.23,0.87,0.41,"height, length"
+229,Snow Leopard,Walrus,0.35,0.58,0.23,length
+230,Snow Leopard,Beluga Whale,0.2,0.56,0.29,"height, length"
+231,Snow Leopard,Kangaroo,0.79,0.42,0.7,"height, length"
+232,Snow Leopard,Koala,1.53,0.97,1.17,"height, length"
+233,Snow Leopard,Platypus,2.0,4.12,2.33,"height, length"
+234,Snow Leopard,Axolotl,4.4,11.67,5.83,"height, length"
+235,Snow Leopard,Sloth,1.72,2.8,1.4,"height, length"
+236,Snow Leopard,Toucan,2.0,3.18,2.33,"height, length"
+237,Snow Leopard,Grizzly Bear,0.49,0.54,0.37,"height, length"
+238,Snow Leopard,Penguin (Emperor),3.14,0.8,0.83,height
+239,Snow Leopard,Hedgehog,4.4,5.83,2.92,"height, length"
+240,Snow Leopard,Great White Shark,0.22,0.5,0.32,"height, length"
+241,Snow Leopard,Giant Squid,0.09,1.4,0.7,length
+242,Snow Leopard,Rooster,2.44,1.75,1.4,"height, length"
+243,Camel (Dromedary),Reindeer,1.41,1.48,1.31,"height, length"
+244,Camel (Dromedary),Narwhal,0.58,2.69,1.0,"height, length"
+245,Camel (Dromedary),Walrus,0.87,1.79,0.57,length
+246,Camel (Dromedary),Beluga Whale,0.5,1.72,0.71,"height, length"
+247,Camel (Dromedary),Kangaroo,1.96,1.3,1.7,"height, length"
+248,Camel (Dromedary),Koala,3.82,2.99,2.83,"height, length"
+249,Camel (Dromedary),Platypus,5.0,12.65,5.67,"height, length"
+250,Camel (Dromedary),Axolotl,11.0,35.83,14.17,"height, length"
+251,Camel (Dromedary),Sloth,4.3,8.6,3.4,"height, length"
+252,Camel (Dromedary),Toucan,5.0,9.77,5.67,"height, length"
+253,Camel (Dromedary),Grizzly Bear,1.22,1.65,0.89,"height, length"
+254,Camel (Dromedary),Penguin (Emperor),7.86,2.44,2.02,height
+255,Camel (Dromedary),Hedgehog,11.0,17.92,7.08,"height, length"
+256,Camel (Dromedary),Great White Shark,0.55,1.54,0.77,"height, length"
+257,Camel (Dromedary),Giant Squid,0.23,4.3,1.7,length
+258,Camel (Dromedary),Rooster,6.11,5.37,3.4,"height, length"
+259,Reindeer,Narwhal,0.41,1.81,0.76,"height, length"
+260,Reindeer,Walrus,0.62,1.21,0.43,length
+261,Reindeer,Beluga Whale,0.35,1.16,0.54,"height, length"
+262,Reindeer,Kangaroo,1.39,0.88,1.3,"height, length"
+263,Reindeer,Koala,2.71,2.01,2.17,"height, length"
+264,Reindeer,Platypus,3.55,8.53,4.33,"height, length"
+265,Reindeer,Axolotl,7.8,24.17,10.83,"height, length"
+266,Reindeer,Sloth,3.05,5.8,2.6,"height, length"
+267,Reindeer,Toucan,3.55,6.59,4.33,"height, length"
+268,Reindeer,Grizzly Bear,0.87,1.12,0.68,"height, length"
+269,Reindeer,Penguin (Emperor),5.57,1.65,1.55,height
+270,Reindeer,Hedgehog,7.8,12.08,5.42,"height, length"
+271,Reindeer,Great White Shark,0.39,1.04,0.59,"height, length"
+272,Reindeer,Giant Squid,0.16,2.9,1.3,length
+273,Reindeer,Rooster,4.33,3.62,2.6,"height, length"
+274,Narwhal,Walrus,1.51,0.67,0.57,length
+275,Narwhal,Beluga Whale,0.86,0.64,0.71,"height, length"
+276,Narwhal,Kangaroo,3.39,0.48,1.7,"height, length"
+277,Narwhal,Koala,6.6,1.11,2.83,"height, length"
+278,Narwhal,Platypus,8.64,4.71,5.67,"height, length"
+279,Narwhal,Axolotl,19.0,13.33,14.17,"height, length"
+280,Narwhal,Sloth,7.42,3.2,3.4,"height, length"
+281,Narwhal,Toucan,8.64,3.64,5.67,"height, length"
+282,Narwhal,Grizzly Bear,2.11,0.62,0.89,"height, length"
+283,Narwhal,Penguin (Emperor),13.57,0.91,2.02,height
+284,Narwhal,Hedgehog,19.0,6.67,7.08,"height, length"
+285,Narwhal,Great White Shark,0.95,0.57,0.77,"height, length"
+286,Narwhal,Giant Squid,0.4,1.6,1.7,length
+287,Narwhal,Rooster,10.56,2.0,3.4,"height, length"
+288,Walrus,Beluga Whale,0.57,0.96,1.25,length
+289,Walrus,Kangaroo,2.25,0.73,3.0,length
+290,Walrus,Koala,4.38,1.67,5.0,length
+291,Walrus,Platypus,5.73,7.06,10.0,length
+292,Walrus,Axolotl,12.6,20.0,25.0,length
+293,Walrus,Sloth,4.92,4.8,6.0,length
+294,Walrus,Toucan,5.73,5.45,10.0,length
+295,Walrus,Grizzly Bear,1.4,0.92,1.58,length
+297,Walrus,Hedgehog,12.6,10.0,12.5,length
+298,Walrus,Great White Shark,0.63,0.86,1.36,length
+299,Walrus,Giant Squid,0.26,2.4,3.0,length
+300,Walrus,Rooster,7.0,3.0,6.0,length
+301,Beluga Whale,Kangaroo,3.93,0.76,2.4,"height, length"
+302,Beluga Whale,Koala,7.64,1.74,4.0,"height, length"
+303,Beluga Whale,Platypus,10.0,7.35,8.0,"height, length"
+304,Beluga Whale,Axolotl,22.0,20.83,20.0,"height, length"
+305,Beluga Whale,Sloth,8.59,5.0,4.8,"height, length"
+306,Beluga Whale,Toucan,10.0,5.68,8.0,"height, length"
+307,Beluga Whale,Grizzly Bear,2.44,0.96,1.26,"height, length"
+308,Beluga Whale,Penguin (Emperor),15.71,1.42,2.86,height
+309,Beluga Whale,Hedgehog,22.0,10.42,10.0,"height, length"
+310,Beluga Whale,Great White Shark,1.1,0.89,1.09,"height, length"
+311,Beluga Whale,Giant Squid,0.46,2.5,2.4,length
+312,Beluga Whale,Rooster,12.22,3.12,4.8,"height, length"
+313,Kangaroo,Koala,1.94,2.29,1.67,"height, length"
+314,Kangaroo,Platypus,2.55,9.71,3.33,"height, length"
+315,Kangaroo,Axolotl,5.6,27.5,8.33,"height, length"
+316,Kangaroo,Sloth,2.19,6.6,2.0,"height, length"
+317,Kangaroo,Toucan,2.55,7.5,3.33,"height, length"
+318,Kangaroo,Grizzly Bear,0.62,1.27,0.53,"height, length"
+319,Kangaroo,Penguin (Emperor),4.0,1.88,1.19,height
+320,Kangaroo,Hedgehog,5.6,13.75,4.17,"height, length"
+321,Kangaroo,Great White Shark,0.28,1.18,0.45,"height, length"
+322,Kangaroo,Giant Squid,0.12,3.3,1.0,length
+323,Kangaroo,Rooster,3.11,4.12,2.0,"height, length"
+324,Koala,Platypus,1.31,4.24,2.0,"height, length"
+325,Koala,Axolotl,2.88,12.0,5.0,"height, length"
+326,Koala,Sloth,1.12,2.88,1.2,"height, length"
+327,Koala,Toucan,1.31,3.27,2.0,"height, length"
+328,Koala,Grizzly Bear,0.32,0.55,0.32,"height, length"
+329,Koala,Penguin (Emperor),2.06,0.82,0.71,height
+330,Koala,Hedgehog,2.88,6.0,2.5,"height, length"
+331,Koala,Great White Shark,0.14,0.51,0.27,"height, length"
+332,Koala,Giant Squid,0.06,1.44,0.6,length
+333,Koala,Rooster,1.6,1.8,1.2,"height, length"
+334,Platypus,Axolotl,2.2,2.83,2.5,"height, length"
+335,Platypus,Sloth,0.86,0.68,0.6,"height, length"
+336,Platypus,Toucan,1.0,0.77,1.0,"height, length"
+337,Platypus,Grizzly Bear,0.24,0.13,0.16,"height, length"
+338,Platypus,Penguin (Emperor),1.57,0.19,0.36,height
+339,Platypus,Hedgehog,2.2,1.42,1.25,"height, length"
+340,Platypus,Great White Shark,0.11,0.12,0.14,"height, length"
+341,Platypus,Giant Squid,0.05,0.34,0.3,length
+342,Platypus,Rooster,1.22,0.42,0.6,"height, length"
+343,Axolotl,Sloth,0.39,0.24,0.24,"height, length"
+344,Axolotl,Toucan,0.45,0.27,0.4,"height, length"
+345,Axolotl,Grizzly Bear,0.11,0.05,0.06,"height, length"
+346,Axolotl,Penguin (Emperor),0.71,0.07,0.14,height
+347,Axolotl,Hedgehog,1.0,0.5,0.5,"height, length"
+348,Axolotl,Great White Shark,0.05,0.04,0.05,"height, length"
+349,Axolotl,Giant Squid,0.02,0.12,0.12,length
+350,Axolotl,Rooster,0.56,0.15,0.24,"height, length"
+351,Sloth,Toucan,1.16,1.14,1.67,"height, length"
+352,Sloth,Grizzly Bear,0.28,0.19,0.26,"height, length"
+353,Sloth,Penguin (Emperor),1.83,0.28,0.6,height
+354,Sloth,Hedgehog,2.56,2.08,2.08,"height, length"
+355,Sloth,Great White Shark,0.13,0.18,0.23,"height, length"
+356,Sloth,Giant Squid,0.05,0.5,0.5,length
+357,Sloth,Rooster,1.42,0.62,1.0,"height, length"
+358,Toucan,Grizzly Bear,0.24,0.17,0.16,"height, length"
+359,Toucan,Penguin (Emperor),1.57,0.25,0.36,height
+360,Toucan,Hedgehog,2.2,1.83,1.25,"height, length"
+361,Toucan,Great White Shark,0.11,0.16,0.14,"height, length"
+362,Toucan,Giant Squid,0.05,0.44,0.3,length
+363,Toucan,Rooster,1.22,0.55,0.6,"height, length"
+364,Grizzly Bear,Penguin (Emperor),6.43,1.48,2.26,height
+365,Grizzly Bear,Hedgehog,9.0,10.83,7.92,"height, length"
+366,Grizzly Bear,Great White Shark,0.45,0.93,0.86,"height, length"
+367,Grizzly Bear,Giant Squid,0.19,2.6,1.9,length
+368,Grizzly Bear,Rooster,5.0,3.25,3.8,"height, length"
+369,Penguin (Emperor),Hedgehog,1.4,7.33,3.5,height
+370,Penguin (Emperor),Great White Shark,0.07,0.63,0.38,height
+372,Penguin (Emperor),Rooster,0.78,2.2,1.68,height
+373,Hedgehog,Great White Shark,0.05,0.09,0.11,"height, length"
+374,Hedgehog,Giant Squid,0.02,0.24,0.24,length
+375,Hedgehog,Rooster,0.56,0.3,0.48,"height, length"
+376,Great White Shark,Giant Squid,0.42,2.8,2.2,length
+377,Great White Shark,Rooster,11.11,3.5,4.4,"height, length"
+378,Giant Squid,Rooster,26.67,1.25,2.0,length

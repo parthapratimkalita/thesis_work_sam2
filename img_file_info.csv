@@ -1,0 +1,29 @@
+ID,Animal,Filename,facing
+1,African Elephant,AfricanElephant.png,"height, length"
+2,Cheetah,cheetah.png,"height, length"
+3,Meerkat,Meerkat.png,height
+4,Giraffe,girraf.png,"height, length"
+5,Hippo,hippo2.png,"height, length"
+6,Honey Badger,HoneyBadger.png,"height, length"
+7,Lemur (Ring-tailed),lemur.png,"height, length"
+8,Red Panda,RedPanda.png,"height, length"
+9,Giant Panda,panda.png,height
+10,Komodo Dragon,komodo.png,length
+11,Snow Leopard,snowleopard.png,"height, length"
+12,Camel (Dromedary),camel.png,"height, length"
+13,Reindeer,Reindeer.png,"height, length"
+14,Narwhal,narwhal.png,length
+15,Walrus,Walrus.png,length
+16,Beluga Whale,Belugawhale.png,length
+17,Kangaroo,Kangaro.png,height
+18,Koala,koala.png,"height, length"
+19,Platypus,platypus.png,"height, length"
+20,Axolotl,axolot.png,length
+21,Sloth,sloth.png,length
+22,Toucan,toucan.png,"height, length"
+23,Grizzly Bear,GrizzliyBear.png,"height, length"
+24,Penguin (Emperor),penguine.png,height
+25,Hedgehog,Hedgehog.png,"height, length"
+26,Great White Shark,GreatWhiteShark.png,length
+27,Giant Squid,Giant_Squid.png,length
+28,Rooster,cock.png,"height, length"

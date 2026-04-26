@@ -1,0 +1,29 @@
+#,Animal,Length (m),Total Height (m),Width (m),Highest Point
+1,African Elephant,6.8,3.7,2.3,Top of head
+2,Cheetah,1.3,0.9,0.35,Top of head
+3,Meerkat,0.35,0.35,0.08,Top of head (upright)
+4,Giraffe,4.3,5.3,1,Top of ossicones
+5,Hippo,4,1.8,1.5,Top of head
+6,Honey Badger,0.68,0.4,0.22,Top of head
+7,Lemur (Ring-tailed),0.58,0.36,0.13,Top of head
+8,Red Panda,0.57,0.34,0.22,Top of head
+9,Giant Panda,1.5,0.9,0.72,Top of head
+10,Komodo Dragon,2.7,0.4,0.33,Top of head
+11,Snow Leopard,1.1,0.7,0.35,Top of head
+12,Camel (Dromedary),2.75,2.15,0.85,Top of hump
+13,Reindeer,1.95,1.45,0.65,Top of antlers
+14,Narwhal,4.75,0.8,0.85,Body diameter
+15,Walrus,3.15,1.2,1.5,Top of head
+16,Beluga Whale,5.5,1.25,1.2,Body depth
+17,Kangaroo,1.4,1.65,0.5,Top of head (upright)
+18,Koala,0.72,0.72,0.3,Top of head
+19,Platypus,0.55,0.17,0.15,Top of body
+20,Axolotl,0.25,0.06,0.06,Top of gills
+21,Sloth,0.64,0.25,0.25,Top of head
+22,Toucan,0.55,0.22,0.15,Top of head
+23,Grizzly Bear,2.25,1.3,0.95,Top of shoulder hump
+24,Penguin (Emperor),0.35,0.88,0.42,Top of head
+25,Hedgehog,0.25,0.12,0.12,Top of spines
+26,Great White Shark,5,1.4,1.1,Top of dorsal fin
+27,Giant Squid,12,0.5,0.5,Mantle diameter
+28,Rooster,0.45,0.4,0.25,Top of comb
